@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 const Alert = () => {
   const colorClasses = {
-    color: "orange",
+    color: "red",
     text4Red: "OMG! Something really bad has happended!",
     text4Orange: "Well, it is not that bad after all!",
   };
